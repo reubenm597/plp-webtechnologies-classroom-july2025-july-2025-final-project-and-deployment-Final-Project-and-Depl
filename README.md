@@ -1,90 +1,79 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🍊 Rue Citrus Farm Website  
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+Welcome to the official repository for the **Rue Citrus Farm** website.  
+This project showcases a responsive multipage website for our citrus farm located in **Kitui, Kenya**.  
+It highlights our farm, fresh produce, and provides an easy way for customers to connect with us.  
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 📌 Features  
 
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+- **Multipage Structure** – Home, About, Services, Gallery, Contact  
+- **Responsive Design** – Works seamlessly on desktops, tablets, and mobile devices  
+- **Navigation Bar** – Clean and centered menu linking all pages  
+- **Interactive Elements** – Mobile-friendly toggle menu, form validation, and smooth user experience  
+- **Gallery Support** – Space for showcasing citrus farm images  
+- **Contact Form** – Visitors can send inquiries directly  
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 🛠️ Built With  
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+- **HTML5** – Semantic structure  
+- **CSS3** – Styling, layout, and responsiveness  
+- **JavaScript (ES6)** – Interactivity and form validation  
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## 📂 Project Structure  
 
-Once your project is complete, choose a method to **host your site online**.
+```bash
+rue-citrus-farm/
+│
+├── index.html        # Home page
+├── about.html        # About Our Farm
+├── services.html     # Our Fresh Produce
+├── gallery.html      # Gallery
+├── contact.html      # Contact page
+│
+├── styles.css        # Main stylesheet
+├── script.js         # JavaScript for interactivity
+│
+├── images/           # Folder for all images (oranges, lemons, limes, farm, etc.)
+│   
+│   
+│   
+│   
+│
+└── orange.png        # Favicon
 
-You can use:
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
 
-Deploy your project and confirm that:
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+🚀 Getting Started
 
-**Goal:** Publish your work online and make it accessible to the world.
+Clone this repository:
 
----
+git clone https://github.com/your-username/rue-citrus-farm.git
 
-## Deliverables
 
-1. A GitHub repository containing:
+Open the project folder:
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+cd rue-citrus-farm
 
----
 
-## Outcome
+Open index.html in your browser to view the site locally.
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+🌍 Live Demo
+
+https://ruecitrusfarm.netlify.app/
+
+📧 Contact
+
+For inquiries, reach out via the Contact Form on the website
+or email us at: mwikyareuben597@gmail.com
+
+📜 License
+
+This project is licensed under the MIT License – feel free to use, modify, and share.
+
